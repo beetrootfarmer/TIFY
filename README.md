@@ -43,9 +43,9 @@ TIFY와 계약한 입점몰들이 소개될 자체 상품중계페이지입니�
 마이페이지의 배송 관리를 통해 배송 현황을 조회할 수 있고 나의 위시, 참여한 위시를 확인하여 친구들과 주고받았던 기록을 확인 할 수 있습니다.
 <br />
 ![](https://user-images.githubusercontent.com/87971876/222604742-2460cd5b-5844-4d40-a76f-74e5fa7717a2.gif)
-![](https://user-images.githubusercontent.com/87971876/222604786-a9018f3d-37aa-4afc-8827-c56d5cc0db2f.gif)
+<!-- ![](https://user-images.githubusercontent.com/87971876/222604786-a9018f3d-37aa-4afc-8827-c56d5cc0db2f.gif)
 ![](https://user-images.githubusercontent.com/87971876/222604805-52b57c2c-1dbd-4b4f-8937-3a113b1a8eb2.gif)
-![](https://user-images.githubusercontent.com/87971876/222604809-22915b6d-e2d9-4f30-84b9-986e70c14eb9.gif)
+![](https://user-images.githubusercontent.com/87971876/222604809-22915b6d-e2d9-4f30-84b9-986e70c14eb9.gif) -->
 <br/>
 3. 일촌
 일촌 찾기 페이지를 통해 닉네임으로 친구를 찾아서 일촌신청을 할 수 있습니다.
