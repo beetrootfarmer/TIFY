@@ -32,6 +32,10 @@ TIFY와 계약한 입점몰들이 소개될 자체 상품중계페이지입니�
 원하는 상품의 제품 명, 가격, 카테고리, 정렬 방식을 선택해 보세요.
 상품 별 유저들이 찜한 횟수, 제품의 상세 설명을 확인 할 수 있습니다.
 선물을 고르기 힘들다면 인기 순으로 정렬해서 많은 사람들이 찾는 상품을 볼 수 있습니다.
+![main gif](https://user-images.githubusercontent.com/87971876/222604672-aeddcbc1-7c6d-4f97-9a42-75559bb8764d.gif)
+![main gif](https://user-images.githubusercontent.com/87971876/222604672-aeddcbc1-7c6d-4f97-9a42-75559bb8764d.gif)
+![main gif](https://user-images.githubusercontent.com/87971876/222604672-aeddcbc1-7c6d-4f97-9a42-75559bb8764d.gif)
+---
 ![gifthub gif](https://user-images.githubusercontent.com/87971876/222604742-2460cd5b-5844-4d40-a76f-74e5fa7717a2.gif)
 ![makewish gif](https://user-images.githubusercontent.com/87971876/222604786-a9018f3d-37aa-4afc-8827-c56d5cc0db2f.gif)
 ![congrats gif](https://user-images.githubusercontent.com/87971876/222604805-52b57c2c-1dbd-4b4f-8937-3a113b1a8eb2.gif)
