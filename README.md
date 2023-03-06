@@ -42,10 +42,12 @@ TIFY와 계약한 입점몰들이 소개될 자체 상품중계페이지입니�
 위시가 생성되면 일촌 알림 및 마이페이지의 주소록을 통하여 웹 발신 문자를 보내 친구에게 기념일을 알릴 수 있습니다
 마이페이지의 배송 관리를 통해 배송 현황을 조회할 수 있고 나의 위시, 참여한 위시를 확인하여 친구들과 주고받았던 기록을 확인 할 수 있습니다.
 <br />
-![gifthub gif](https://user-images.githubusercontent.com/87971876/222604742-2460cd5b-5844-4d40-a76f-74e5fa7717a2.gif){: width="50%" height="50%"}{: .center}
-![makewish gif](https://user-images.githubusercontent.com/87971876/222604786-a9018f3d-37aa-4afc-8827-c56d5cc0db2f.gif){: width="50%" height="50%"}{: .center}
-![congrats gif](https://user-images.githubusercontent.com/87971876/222604805-52b57c2c-1dbd-4b4f-8937-3a113b1a8eb2.gif){: width="50%" height="50%"}{: .center}
-![thanks gif](https://user-images.githubusercontent.com/87971876/222604809-22915b6d-e2d9-4f30-84b9-986e70c14eb9.gif){: width="50%" height="50%"}{: .center}
+<iframe src="https://user-images.githubusercontent.com/87971876/222604742-2460cd5b-5844-4d40-a76f-74e5fa7717a2.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+![](https://user-images.githubusercontent.com/87971876/222604742-2460cd5b-5844-4d40-a76f-74e5fa7717a2.gif){: width="50%" height="50%"}{: .center}
+![](https://user-images.githubusercontent.com/87971876/222604786-a9018f3d-37aa-4afc-8827-c56d5cc0db2f.gif){: width="50%" height="50%"}{: .center}
+![](https://user-images.githubusercontent.com/87971876/222604805-52b57c2c-1dbd-4b4f-8937-3a113b1a8eb2.gif){: width="50%" height="50%"}{: .center}
+![](https://user-images.githubusercontent.com/87971876/222604809-22915b6d-e2d9-4f30-84b9-986e70c14eb9.gif){: width="50%" height="50%"}{: .center}
 <br/>
 3. 일촌
 일촌 찾기 페이지를 통해 닉네임으로 친구를 찾아서 일촌신청을 할 수 있습니다.
