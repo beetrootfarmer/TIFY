@@ -66,7 +66,7 @@ TIFY와 계약한 입점몰들이 소개될 자체 상품중계페이지입니�
 ![ezgif com-crop (1)](https://user-images.githubusercontent.com/87971876/235334084-3007a208-37b6-4d99-bf9c-b54a469bc9fb.gif)
 <br/>
 축하를 받은 유저는 위시의 기간이나 금액이 충족이 되면 축하카드를 확인하고 감사카드를 보낼 수 있습니다.<br />
-![Timeline_1_AdobeExpress](https://user-images.githubusercontent.com/87971876/222995983-a044e5af-8157-4368-b4a5-deb9f9205633.gif)
+![ezgif com-crop (2)](https://user-images.githubusercontent.com/87971876/235334106-1cf7d17f-b020-4cbc-a256-a3c2372c410e.gif)
 <br/>
 기프트 허브를 통해 원하는 선물을 찾지 못했다면 외부 링크를 입력해서 타 쇼핑몰의 상품을 등록할 수 있습니다.
 위시가 생성되면 일촌 알림 및 마이페이지의 티피에서 주소록을 통하여 웹 발신 문자를 전송해주고 친구에게 기념일을 알릴 수 있습니다
