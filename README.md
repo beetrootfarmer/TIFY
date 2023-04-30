@@ -2,7 +2,6 @@
 마음을 모아 티피에서 축하를 의미있게</br>
 모아서 선물하는 펀딩 플랫폼</br>
 
-![타이틀이미지](  )
 
 ## 소개 영상 보기 : [UCC 링크](  )
 
@@ -64,7 +63,7 @@ TIFY와 계약한 입점몰들이 소개될 자체 상품중계페이지입니�
 <br/>
 
 친구의 선물에 결제와 동시에 축하카드를 남겨 축하하는 마음을 전할 수 있습니다.<br />
-![Timeline_3_AdobeExpress](https://user-images.githubusercontent.com/87971876/222995970-489a13f5-7c84-4d40-b8c3-1320697cf978.gif)
+![ezgif com-crop (1)](https://user-images.githubusercontent.com/87971876/235334084-3007a208-37b6-4d99-bf9c-b54a469bc9fb.gif)
 <br/>
 축하를 받은 유저는 위시의 기간이나 금액이 충족이 되면 축하카드를 확인하고 감사카드를 보낼 수 있습니다.<br />
 ![Timeline_1_AdobeExpress](https://user-images.githubusercontent.com/87971876/222995983-a044e5af-8157-4368-b4a5-deb9f9205633.gif)
