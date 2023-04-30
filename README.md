@@ -42,7 +42,7 @@ TIFY는 'Wish'를 만들고 받고 싶은 선물(Gift)을 업로드하여 받고
 ### 0. 메인페이지
 스크롤에 따라 interactive하게 티피 서비스에 대해 설명하는 역할의 랜딩페이지입니다.
 <br />
-![main__online-video-cutter_com__AdobeExpress](https://user-images.githubusercontent.com/87971876/222996001-862f29ef-ae3e-455e-b8eb-124c1a2705a4.gif)
+![ezgif com-crop (4)](https://user-images.githubusercontent.com/87971876/235334206-32dd23fe-96c1-4280-8124-708ea6a6a317.gif)
 <br/>
 ### 1. 자체 스토어, 기프트 허브
 TIFY와 계약한 입점몰들이 소개될 자체 상품중계페이지입니다.
