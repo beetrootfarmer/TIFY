@@ -58,7 +58,7 @@ TIFY와 계약한 입점몰들이 소개될 자체 상품중계페이지입니�
 나의 기념일을 공유하고 받고 싶은 선물을 공유합니다.
 카테고리, 카드, 축하 정보를 등록해 자신의 위시를 생성하고 
 <br />
-![Timeline_2_AdobeExpress](https://user-images.githubusercontent.com/87971876/222995978-f8984171-9627-4b45-a030-c149aa40d4ba.gif)
+![ezgif com-gif-to-mp4 (1)](https://user-images.githubusercontent.com/87971876/235334031-df82cff9-20c5-4507-9a43-fe10d2d40462.gif)
 <br/>
 생성된 카드는 일촌에게 알림이 가고, 주소록에 등록된 번호로 문자 Web발신이 전송되어 대신 알려드립니다
 <br/>
